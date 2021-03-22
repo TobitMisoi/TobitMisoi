@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on a frontend application with ReactJS
 - 💬 Ask me about ...
-- 📫 Can easily reach me: [whatsapp]+254759267967, [gmail] kipkiruitobitmisoi@gmail.com, [tobitmisoi.com](https://tobitmisoi.com)
+- 📫 Can easily reach me: [whatsapp](+254759267967), [gmail](kipkiruitobitmisoi@gmail.com), [tobitmisoi.com](https://tobitmisoi.com)
 - 😄 Pronouns: he
