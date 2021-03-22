@@ -8,4 +8,4 @@
 - 😄 Pronouns: he
 - ⚡ Fun fact: 
 
-[Tobit's GitHub stats](https://github-readme-stats.vercel.app/api?TobitMisoi=tobitmisoi&show_icons=true&theme=radical)
+[Tobit's GitHub stats](https://github-readme-stats.vercel.app/api?TobitMisoi=anuraghazra&show_icons=true&theme=radical)
