@@ -12,6 +12,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -22,7 +23,7 @@
 <a href="mailto:misoitobit@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.instagram.com/tobitmisoi/"><img src="https://img.shields.io/badge/-@tobitmisoi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-  - 🔭 I’m currently working on #100DaysOfCode
+- 🔭 I’m currently working on #100DaysOfCode
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on a frontend application with ReactJS
 - 💬 Ask me about ...
