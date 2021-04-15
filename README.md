@@ -1,4 +1,4 @@
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=TobitMisoi&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api?username=TobitMisoi&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
