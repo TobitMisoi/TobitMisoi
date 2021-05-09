@@ -29,3 +29,7 @@
 - 💬 Ask me about ...
 - 📫 Can easily reach me: [whatsapp](+254759267967), [gmail](kipkiruitobitmisoi@gmail.com), [tobitmisoi.com](https://tobitmisoi.com)
 - 😄 Pronouns: he/him/his
+
+Rule: I always find something to do
+
+last updated May 9, 2021 
