@@ -24,7 +24,7 @@
 <a href="https://www.instagram.com/tobitmisoi/"><img src="https://img.shields.io/badge/-@tobitmisoi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 - 🔭 I’m currently working on my mini projects
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning React-Typescript
 - 👯 I’m looking to collaborate on a frontend application with ReactJS
 - 💬 Ask me about ...
 - 📫 Can easily reach me: [whatsapp](+254759267967), [gmail](kipkiruitobitmisoi@gmail.com), [tobitmisoi.com](https://tobitmisoi.com)
