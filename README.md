@@ -23,7 +23,7 @@
 <a href="mailto:misoitobit@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.instagram.com/tobitmisoi/"><img src="https://img.shields.io/badge/-@tobitmisoi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-- 🔭 I’m currently working on #100DaysOfCode
+- 🔭 I’m currently working on my mini projects
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on a frontend application with ReactJS
 - 💬 Ask me about ...
