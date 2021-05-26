@@ -1,6 +1,6 @@
  <img align="right" src="https://github.com/TobitMisoi/TobitMisoi/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
  
-Hey there, I am Tobit Misoi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+Hey there, I am Tobit Misoi <img src="https://raw.githubusercontent.com/TobitMisoi/TobitMisoi/main/Hi.gif" width="30px">
 --
 
 - 🎯 Portfolio website: [Portfolio](https://tobitmisoi.com/)
