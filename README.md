@@ -1,4 +1,16 @@
-  <img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api?username=TobitMisoi&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true" />
+ <img align="right" src="https://github.com/karan19100/karan19100/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
+ 
+Hey there, I am Tobit Misoi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+--
+
+- 🎯 Portfolio website: [Portfolio](https://tobitmisoi.com/)
+- ⚡ **Rule No. 1:** I always find something to do 🤓
+
+### 💻 **Things I love doing**
+- Coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Frontend Development ✍️
+- Research & Development 🧐
+- Riding �
   
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -7,7 +19,14 @@
 🌱 &nbsp;I'm on track for learning more about Full Stack Development.\
 ✍️ &nbsp;In my free time, I ride, watch and pursue reading(especially blogs relating to tech stuff) as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics😌.\
-✉️ &nbsp;You can email me at misoitobit@gmail.com. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at misoitobit@gmail.com. I'll try to respond as soon as possible!\ 
+<br />
+
+
+ <a href="https://gitstats.me/TobitMisoi">
+    <img width="420" height="auto" align="right" alt="Tobit's github stats" 
+    src="https://github-readme-stats.vercel.app/api?username=TobitMisoi&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+</a>
 
 ### 🛠 &nbsp;Tech Stack
 
