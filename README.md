@@ -10,7 +10,7 @@ Hey there, I am Tobit Misoi <img src="https://raw.githubusercontent.com/TobitMis
 - Coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Frontend Development ✍️
 - Research & Development 🧐
-- Riding <img src="https://raw.githubusercontent.com/TobitMisoi/TobitMisoi/main/riding.gif" width="30px">
+- Riding <img src="https://raw.githubusercontent.com/TobitMisoi/TobitMisoi/main/biking.gif" width="30px">
   
 ### 👨🏻‍💻 &nbsp;About Me
 
