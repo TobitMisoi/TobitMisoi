@@ -4,7 +4,6 @@ Hey there, I am Tobit Misoi <img src="https://raw.githubusercontent.com/TobitMis
 --
 
 - 🎯 Portfolio website: [Portfolio](https://tobitmisoi.com/)
-- ⚡ **Rule No. 1:** I always find something to do 🤓
 
 ### 💻 **Things I love doing**
 - Coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
