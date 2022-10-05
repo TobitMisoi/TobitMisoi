@@ -13,12 +13,11 @@ Hey there, I am Tobit Misoi <img src="https://raw.githubusercontent.com/TobitMis
   
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer and researcher by passion, currently not employed.\
-🎓 &nbsp;I'm currently studying Computer Science at Zetech University, Kenya (2019-2021).\
+💡 &nbsp; I'm a software developer and researcher by passion, currently working as a Frontend Developer.\
 🌱 &nbsp;I'm on track for learning more about Full Stack Development.\
 ✍️ &nbsp;In my free time, I ride, watch and pursue reading(especially blogs relating to tech stuff) as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics😌.\
-✉️ &nbsp;You can email me at misoitobit@gmail.com. I'll try to respond as soon as possible!\ 
+✉️ &nbsp;You can email me at misoitobit@gmail.com. I'll try to respond as soon as possible!  
 <br />
 
 
@@ -45,7 +44,7 @@ Hey there, I am Tobit Misoi <img src="https://raw.githubusercontent.com/TobitMis
 - 🌱 I’m currently learning React-Typescript
 - 👯 I’m looking to collaborate on a frontend application with ReactJS
 - 💬 Ask me about ...
-- 📫 Can easily reach me: [whatsapp](+254759267967), [gmail](kipkiruitobitmisoi@gmail.com), [tobitmisoi](https://tobitmisoi.com)
+- 📫 Can easily reach me: [whatsapp](+254778288520), [gmail](misoitobit@gmail.com), [tobitmisoi](https://tobitmisoi.com)
 - 😄 Pronouns: he/him/his
 
 Rule: I always find something to do
