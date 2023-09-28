@@ -23,7 +23,7 @@ Hey there, I am Tobit Misoi <img src="https://raw.githubusercontent.com/TobitMis
 
  <a href="https://gitstats.me/TobitMisoi">
     <img width="420" height="auto" align="right" alt="Tobit's github stats" 
-    src="https://github-readme-stats.vercel.app/api?username=TobitMisoi&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+    src="https://github-readme-stats.vercel.app/api?username=TobitMisoi&show_icons=true&theme=dark&count_private=true&hide=contribs,issues" />
 </a>
 
 ### 🛠 &nbsp;Tech Stack
