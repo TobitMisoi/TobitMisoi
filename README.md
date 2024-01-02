@@ -44,9 +44,9 @@ Hey there, I am Tobit Misoi <img src="https://raw.githubusercontent.com/TobitMis
 - 🌱 I’m currently learning React-Typescript
 - 👯 I’m looking to collaborate on a frontend application with ReactJS
 - 💬 Ask me about ...
-- 📫 Can easily reach me: [whatsapp](+254778288520), [gmail](misoitobit@gmail.com), [tobitmisoi](https://tobitmisoi.com)
+- 📫 Can easily reach me: [gmail](misoitobit@gmail.com), [tobitmisoi](https://tobitmisoi.com)
 - 😄 Pronouns: he/him/his
 
 Rule: I always find something to do
 
-last updated May 26, 2021 
+last updated Jan 2, 2024
