@@ -17,7 +17,7 @@ Hey there, I am Tobit Misoi <img src="https://raw.githubusercontent.com/TobitMis
 🌱 &nbsp;I'm on track for learning more about Full Stack Development.\
 ✍️ &nbsp;In my free time, I ride, watch and pursue reading(especially blogs relating to tech stuff) as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics😌.\
-✉️ &nbsp;You can email me at misoitobit@gmail.com. I'll try to respond as soon as possible!  
+✉️ &nbsp;You can email me at misoitobit@gmail.com. I'll try to respond ASAP!  
 <br />
 
 
