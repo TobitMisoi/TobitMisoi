@@ -1,7 +1,8 @@
-<img align="right" src="https://github.com/TobitMisoi/TobitMisoi/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
+
  
-Hey there, I'm tobitmisoi! 🌟
---
+# Hey there, I'm tobitmisoi! 🌟
+
+<img align="right" src="https://github.com/TobitMisoi/TobitMisoi/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
 - 🎯 Portfolio website: [Portfolio](https://tobitmisoi.com/)
 
 ### 💻 **Things I love doing**
@@ -12,6 +13,7 @@ Hey there, I'm tobitmisoi! 🌟
   
 ### 👨🏻‍💻 &nbsp;About Me
 Fullstack Developer - I've survived the frontend-backend wars and lived to code about it. Armed with HTML shields, CSS armor, JavaScript weapons, React superpowers, Node.js endurance, and DB storage scrolls. I debug by day, deploy by night, and dream in JSON. Serial port killer - no port 3000 is safe from my kill -9 rampage. Side effects may include talking to rubber ducks and an unhealthy relationship with Claude Sonnet 4 (my AI coding therapist who actually understands my problems).
+<br />
 
 💡 Frontend Developer | Security Researcher | Tinkering with smart surveillance through ethical hacking lens.\
 🌱 Learning Full Stack Development with security-first mindset | Exploring IoT vulnerabilities & privacy-preserving tech.\
