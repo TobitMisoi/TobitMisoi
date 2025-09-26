@@ -3,6 +3,7 @@
 # Hey there, I'm tobitmisoi! 🌟
 
 <img align="right" src="https://github.com/TobitMisoi/TobitMisoi/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
+
 - 🎯 Portfolio website: [Portfolio](https://tobitmisoi.com/)
 
 ### 💻 **Things I love doing**
